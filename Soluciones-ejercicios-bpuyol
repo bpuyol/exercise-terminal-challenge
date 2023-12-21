@@ -1,0 +1,15 @@
+0. cd thecmdchallenge/
+1. pwd
+2. ls -a
+3. ls -R
+4. clear
+5. cat trophy.txt
+6. ls *.js
+7. mkdir not-that-funny
+8. cp the-mostboring-text.txt 
+9. mv funcode/kids.jpg funcode/images/hello/
+10. rm -rf small-name
+11. cat the-ultimate-joke.txt
+12. rm -rf boringfolder/*
+13. nano dragon-ball-jokes.md
+14. CTRL+K the first line of dragon-ball-jokes.md then CTRL+X to close and input Y when asked if you want to save
